@@ -9,5 +9,5 @@ setiap elemen.
 7. Menampilkan jumlah elemen dalam ArrayList menggunakan method size().
 8. Memeriksa apakah ArrayList kosong menggunakan method isEmpty().
 
-#Output
+#OUTPUT
 ![mod2_2](https://github.com/Naufallm/codelab_ArrayList/assets/130893000/22d32aed-7516-4009-9034-d751e7e63eba)
